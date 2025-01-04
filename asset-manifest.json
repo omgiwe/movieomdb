@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/movieomdb/static/css/main.194c2f29.css",
-    "main.js": "/movieomdb/static/js/main.fd723069.js",
+    "main.js": "/movieomdb/static/js/main.776b0670.js",
     "index.html": "/movieomdb/index.html",
     "main.194c2f29.css.map": "/movieomdb/static/css/main.194c2f29.css.map",
-    "main.fd723069.js.map": "/movieomdb/static/js/main.fd723069.js.map"
+    "main.776b0670.js.map": "/movieomdb/static/js/main.776b0670.js.map"
   },
   "entrypoints": [
     "static/css/main.194c2f29.css",
-    "static/js/main.fd723069.js"
+    "static/js/main.776b0670.js"
   ]
 }
